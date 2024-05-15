@@ -1,0 +1,20 @@
+Pizza
+Burger
+Pasta
+Salad
+Ice Cream
+Steak
+Soup
+Sandwich
+Fries
+Chicken
+Pancakes
+Brownies
+Cheesecake
+Sushi
+Tacos
+Ribs
+Curry
+Dumplings
+Lasagna
+Quiche

@@ -1,0 +1,292 @@
+_Movies:
+Avatar
+Titanic
+Inception
+The Godfather
+Star Wars: A New Hope
+The Lord of the Rings: The Fellowship of the Ring
+Jurassic Park
+Forrest Gump
+The Matrix
+Gladiator
+Saving Private Ryan
+The Dark Knight
+Jaws
+Pulp Fiction
+Braveheart
+Fight Club
+The Shawshank Redemption
+Harry Potter and the Sorcerer's Stone
+The Lion King
+Back to the Future
+Indiana Jones and the Raiders of the Lost Ark
+Goodfellas
+The Silence of the Lambs
+The Wizard of Oz
+Schindler's List
+Toy Story
+Alien
+Gone with the Wind
+Terminator 2: Judgment Day
+The Sound of Music
+E.T. the Extra-Terrestrial
+The Empire Strikes Back
+The Godfather Part II
+A Beautiful Mind
+Amélie
+Moulin Rouge!
+Gladiator
+The Green Mile
+The Departed
+Slumdog Millionaire
+The Prestige
+The Truman Show
+Black Swan
+La La Land
+The Grand Budapest Hotel
+Moonlight
+Joker
+Parasite
+The Irishman
+Once Upon a Time in Hollywood
+1917
+Dunkirk
+The Revenant
+Mad Max: Fury Road
+The Social Network
+Inglourious Basterds
+No Country for Old Men
+There Will Be Blood
+Pan's Labyrinth
+Eternal Sunshine of the Spotless Mind
+Lost in Translation
+The Pianist
+Spirited Away
+Crouching Tiger, Hidden Dragon
+American Beauty
+Fight Club
+The Matrix
+Saving Private Ryan
+Titanic
+Good Will Hunting
+Fargo
+Pulp Fiction
+Schindler's List
+Jurassic Park
+The Silence of the Lambs
+Goodfellas
+Dead Poets Society
+Rain Man
+Full Metal Jacket
+Platoon
+Aliens
+Amadeus
+Scarface
+E.T. the Extra-Terrestrial
+Blade Runner
+The Shining
+Apocalypse Now
+Star Wars: The Empire Strikes Back
+Alien
+Jaws
+The Godfather Part II
+The Exorcist
+A Clockwork Orange
+The Godfather
+_States:
+California
+Texas
+Florida
+New York
+Illinois
+Pennsylvania
+Ohio
+Georgia
+North Carolina
+Michigan
+New Jersey
+Virginia
+Washington
+Arizona
+Massachusetts
+Tennessee
+Indiana
+Missouri
+Maryland
+Wisconsin
+Colorado
+Minnesota
+South Carolina
+Alabama
+Louisiana
+Kentucky
+Oregon
+Oklahoma
+Connecticut
+Iowa
+Mississippi
+Arkansas
+Utah
+Nevada
+New Mexico
+West Virginia
+Nebraska
+Idaho
+Hawaii
+Maine
+New Hampshire
+Rhode Island
+Montana
+Delaware
+South Dakota
+Alaska
+North Dakota
+Vermont
+Wyoming
+Kansas
+_Cities:
+New York
+Los Angeles
+Chicago
+Houston
+Phoenix
+Philadelphia
+San Antonio
+San Diego
+Dallas
+San Jose
+Austin
+Jacksonville
+Fort Worth
+Columbus
+Charlotte
+San Francisco
+Indianapolis
+Seattle
+Denver
+Washington D.C.
+Boston
+El Paso
+Detroit
+Nashville
+Portland
+Memphis
+Oklahoma City
+Las Vegas
+Louisville
+Baltimore
+Milwaukee
+Albuquerque
+Tucson
+Fresno
+Sacramento
+Mesa
+Kansas City
+Atlanta
+Omaha
+Raleigh
+Miami
+Long Beach
+Virginia Beach
+Oakland
+Minneapolis
+Tulsa
+Tampa
+Arlington
+New Orleans
+Wichita
+_Phrases:
+Time flies.
+Easy come, easy go.
+Better late than never.
+No pain, no gain.
+What goes around comes around.
+Birds of a feather flock together.
+Practice makes perfect.
+Out of sight, out of mind.
+Once in a blue moon.
+A picture is worth a thousand words.
+_Food:
+Pizza
+Hamburger
+Sushi
+Pasta
+Tacos
+Chocolate
+Ice Cream
+Steak
+Salad
+Cheese
+Dumplings
+Curry
+Paella
+Lobster
+Pancakes
+Croissant
+Bagel
+Ramen
+Tapas
+Falafel
+_Video_Games:
+The Legend of Zelda
+Super Mario Bros.
+Minecraft
+Fortnite
+Call of Duty
+Pokémon Go
+World of Warcraft
+Tetris
+The Sims
+Grand Theft Auto V
+League of Legends
+Overwatch
+Super Smash Bros.
+Final Fantasy
+Elder Scrolls V: Skyrim
+Doom
+Half-Life
+Counter-Strike
+Portal
+Resident Evil
+_TV_Shows:
+Game of Thrones
+Breaking Bad
+Friends
+The Office
+The Simpsons
+Stranger Things
+The Mandalorian
+The Crown
+Westworld
+Sherlock
+Doctor Who
+The Walking Dead
+Narcos
+Better Call Saul
+The Big Bang Theory
+Black Mirror
+Fargo
+Dexter
+Lost
+House of Cards
+_Famous_People:
+Albert Einstein
+Leonardo da Vinci
+Mahatma Gandhi
+Martin Luther King Jr.
+Marilyn Monroe
+Steve Jobs
+William Shakespeare
+Cleopatra
+Michael Jackson
+Queen Elizabeth II
+Nelson Mandela
+Winston Churchill
+Amelia Earhart
+Pablo Picasso
+Vincent van Gogh
+Frida Kahlo
+Thomas Edison
+Jane Austen
+Charles Darwin
+Isaac Newton
